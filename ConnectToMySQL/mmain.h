@@ -1,0 +1,53 @@
+//---------------------------------------------------------------------------
+
+#ifndef mmainH
+#define mmainH
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+#include <Data.DB.hpp>
+#include <Data.DBXMySQL.hpp>
+#include <Data.FMTBcd.hpp>
+#include <Data.SqlExpr.hpp>
+#include <Datasnap.DBClient.hpp>
+#include <Datasnap.Provider.hpp>
+#include <Vcl.DBGrids.hpp>
+#include <Vcl.Grids.hpp>
+//---------------------------------------------------------------------------
+class TForm1 : public TForm
+{
+__published:	// IDE-managed Components
+	TSQLConnection *SQLConnection1;
+	TSQLQuery *SQLQuery1;
+	TDataSetProvider *DataSetProvider1;
+	TClientDataSet *ClientDataSet1;
+	TDataSource *DataSource1;
+	TDBGrid *DBGrid1;
+	TButton *Button1;
+	TSQLQuery *SQLQuery2;
+	TDataSetProvider *DataSetProvider2;
+	TClientDataSet *ClientDataSet2;
+	TDataSource *DataSource2;
+	TEdit *Edit1;
+	TEdit *Edit2;
+	TLabel *Label1;
+	TLabel *Label2;
+	TButton *Button2;
+	TEdit *Edit3;
+	TButton *Button3;
+	TEdit *Edit4;
+	TButton *Button4;
+	void __fastcall Button1Click(TObject *Sender);
+	void __fastcall Button2Click(TObject *Sender);
+	void __fastcall Button3Click(TObject *Sender);
+	void __fastcall Button4Click(TObject *Sender);
+private:	// User declarations
+public:		// User declarations
+	__fastcall TForm1(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TForm1 *Form1;
+//---------------------------------------------------------------------------
+#endif

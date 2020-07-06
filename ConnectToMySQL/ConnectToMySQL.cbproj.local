@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.408,C:\Users\tomusiak.LAN\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=E:\TOKIO\ConnectToMySQL\ConnectToMySQLPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.291,=C:\Users\tomusiak.LAN\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.832,C:\Users\tomusiak.LAN\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\TOKIO\ConnectToMySQL\mmain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.832,C:\Users\tomusiak.LAN\Documents\Embarcadero\Studio\Projects\Unit1.h=E:\TOKIO\ConnectToMySQL\mmain.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.927,=C:\Users\tomusiak.LAN\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.832,C:\Users\tomusiak.LAN\Documents\Embarcadero\Studio\Projects\Unit1.cpp=E:\TOKIO\ConnectToMySQL\mmain.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.638,C:\Users\tomusiak.LAN\Documents\Embarcadero\Studio\Projects\Project1.cbproj=E:\TOKIO\ConnectToMySQL\ConnectToMySQL.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.005,=C:\Users\tomusiak.LAN\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.079,=C:\Users\tomusiak.LAN\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
